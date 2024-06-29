@@ -5,6 +5,7 @@ Passionate Full-Stack Developer | Founder @ Duoph Technologies
 I'm Hadi Razal, a Full-Stack developer dedicated to creating impactful digital experiences. I thrive in collaborative environments where I can transform ideas into polished, high-impact solutions.
 
 💻 Tech Stack
+
 Frontend:
 
 React
@@ -16,6 +17,8 @@ Backend:
 Node.js
 Django
 Express.js
+
+
 Databases:
 
 MongoDB
@@ -23,20 +26,28 @@ PostgreSQL
 Supabase
 Firebase
 MySQL
+
+
 DevOps:
 
 Docker
 Kubernetes
 AWS
+
+
 Testing:
 
 Jest
 Mocha
 Selenium
+
+
 Deployment:
 
 Vercel
 Netlify
+
+
 Design:
 
 Figma
