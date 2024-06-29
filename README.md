@@ -48,8 +48,9 @@ A powerful mail marketing application built with React Native and Supabase. Stay
 📈 GitHub Stats
 
 📫 Let's Connect
-LinkedIn
-GitHub
-Twitter
-Instagram
+
+
+
+
 Thanks for stopping by! Feel free to check out my repositories and get in touch if you'd like to collaborate.
+
