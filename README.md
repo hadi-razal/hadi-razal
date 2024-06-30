@@ -6,8 +6,6 @@ Sure! Here’s an updated version of your GitHub README profile with stack icons
 
 I'm a passionate Full-Stack Developer with a strong focus on creating impactful digital experiences. My expertise spans a wide range of modern web technologies, and I love transforming ideas into polished, high-impact digital solutions.
 
-![Banner](https://source.unsplash.com/1600x400/?coding)
-
 ## 🛠️ Technologies & Tools
 
 ### Frontend
@@ -62,8 +60,6 @@ I'm a passionate Full-Stack Developer with a strong focus on creating impactful 
 
 ## 🔭 Current Projects
 - **Mail Motion**: An intuitive email marketing tool designed to simplify your email marketing campaigns.
-
-![Project](https://source.unsplash.com/1600x400/?email,marketing)
 
 ## 🌱 What I'm Learning
 I'm currently exploring advanced DevOps practices and container orchestration with Kubernetes to further streamline my development workflow.
