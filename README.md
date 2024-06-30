@@ -6,7 +6,7 @@ Sure! Here’s an updated version of your GitHub README profile with stack icons
 
 I'm a passionate Full-Stack Developer with a strong focus on creating impactful digital experiences. My expertise spans a wide range of modern web technologies, and I love transforming ideas into polished, high-impact digital solutions.
 
-![Banner](https://source.unsplash.com/1600x400/?coding,technology)
+![Banner](https://source.unsplash.com/1600x400/?coding)
 
 ## 🛠️ Technologies & Tools
 
