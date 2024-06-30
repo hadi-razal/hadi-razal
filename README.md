@@ -1,6 +1,4 @@
-Sure! Here’s an updated version of your GitHub README profile with stack icons for a cooler and more professional look:
 
----
 
 # Hi, I'm Hadi Razal! 👋
 
