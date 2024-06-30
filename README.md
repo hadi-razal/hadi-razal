@@ -80,8 +80,6 @@ I'm currently exploring advanced DevOps practices and container orchestration wi
 ![Connect](https://source.unsplash.com/1600x400/?networking,technology)
 
 ## 📫 Get In Touch
-Feel free to reach out if you have any questions, ideas, or just want to chat about technology. You can contact me at [your_email@example.com].
+Feel free to reach out if you have any questions, ideas, or just want to chat about technology. You can contact me at [hadhirasal22@gmail.com].
 
 ---
-
-Feel free to replace the placeholder email and banner images with your own specific content. This README structure, with icons, should give your profile a sleek and modern look!
