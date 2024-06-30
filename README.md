@@ -77,7 +77,6 @@ I'm currently exploring advanced DevOps practices and container orchestration wi
   <a href="https://www.instagram.com/hadi_razal/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
 </p>
 
-![Connect](https://source.unsplash.com/1600x400/?networking,technology)
 
 ## 📫 Get In Touch
 Feel free to reach out if you have any questions, ideas, or just want to chat about technology. You can contact me at [hadhirasal22@gmail.com].
