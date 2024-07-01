@@ -12,7 +12,8 @@ I'm a passionate Full-Stack Developer with a strong focus on creating impactful 
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=vue&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
+
 </p>
 
 ### Design
