@@ -11,6 +11,7 @@ I'm a passionate Software Developer with a strong focus on creating impactful di
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
 </p>
 
 ### Design
@@ -87,3 +88,5 @@ I'm currently exploring advanced DevOps practices and container orchestration wi
 
 ## 📫 Get In Touch
 Feel free to reach out if you have any questions, ideas, or just want to chat about technology. You can contact me at [hadhirasal22@gmail.com].
+
+---
