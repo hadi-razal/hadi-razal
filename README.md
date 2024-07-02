@@ -1,5 +1,3 @@
-
-
 # Hi, I'm Hadi Razal! 👋
 
 I'm a passionate Full-Stack Developer with a strong focus on creating impactful digital experiences. My expertise spans a wide range of modern web technologies, and I love transforming ideas into polished, high-impact digital solutions.
@@ -12,8 +10,7 @@ I'm a passionate Full-Stack Developer with a strong focus on creating impactful 
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
 </p>
 
 ### Design
@@ -27,6 +24,8 @@ I'm a passionate Full-Stack Developer with a strong focus on creating impactful 
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" />
 </p>
 
 ### Databases
@@ -58,6 +57,15 @@ I'm a passionate Full-Stack Developer with a strong focus on creating impactful 
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" />
 </p>
 
+### Additional Skills
+- **Golang**
+- **Svelte**
+- **WordPress**
+- **PHP**
+- **Python**
+- **TypeScript**
+- **JavaScript**
+
 ## 🔭 Current Projects
 - **Mail Motion**: An intuitive email marketing tool designed to simplify your email marketing campaigns.
 
@@ -77,8 +85,5 @@ I'm currently exploring advanced DevOps practices and container orchestration wi
   <a href="https://www.instagram.com/hadi_razal/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
 </p>
 
-
 ## 📫 Get In Touch
 Feel free to reach out if you have any questions, ideas, or just want to chat about technology. You can contact me at [hadhirasal22@gmail.com].
-
----
