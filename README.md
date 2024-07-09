@@ -10,7 +10,7 @@ I'm a passionate Software Developer with a strong focus on creating impactful di
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
+<!--   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" /> -->
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
 </p>
 
@@ -46,11 +46,11 @@ I'm a passionate Software Developer with a strong focus on creating impactful di
 </p>
 
 ### Testing
-<p align="center">
-  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge" />
-</p>
+<!-- <p align="center"> -->
+<!--   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" /> -->
+<!--   <img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge" /> -->
+<!--   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge" /> -->
+<!-- </p> -->
 
 ### Deployment
 <p align="center">
@@ -59,8 +59,6 @@ I'm a passionate Software Developer with a strong focus on creating impactful di
 </p>
 
 ### Additional Skills
-- **Golang**
-- **Svelte**
 - **WordPress**
 - **PHP**
 - **Python**
