@@ -45,7 +45,7 @@ I'm a passionate Software Developer with a strong focus on creating impactful di
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 </p>
 
-### Testing
+<!--### Testing -->
 <!-- <p align="center"> -->
 <!--   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" /> -->
 <!--   <img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white&style=for-the-badge" /> -->
