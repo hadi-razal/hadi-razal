@@ -79,7 +79,6 @@ I'm currently exploring advanced DevOps practices and container orchestration wi
 ## 🔗 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/hadi-razal-690b22228/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://github.com/hadi-razal"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
   <a href="https://twitter.com/Hadi_Razal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.instagram.com/hadi_razal/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" /></a>
 </p>
