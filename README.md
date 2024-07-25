@@ -11,7 +11,6 @@ I'm a passionate Software Developer with a strong focus on creating impactful di
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 <!--   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" /> -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
 </p>
 
 ### Design
@@ -25,7 +24,6 @@ I'm a passionate Software Developer with a strong focus on creating impactful di
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" />
 </p>
 
@@ -60,7 +58,6 @@ I'm a passionate Software Developer with a strong focus on creating impactful di
 
 ### Additional Skills
 - **WordPress**
-- **PHP**
 - **Python**
 - **TypeScript**
 - **JavaScript**
