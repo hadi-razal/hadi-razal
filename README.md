@@ -63,15 +63,11 @@ I'm a passionate Software Developer with a strong focus on creating impactful di
 - **JavaScript**
 
 ## 🔭 Current Projects
-- **Mail Motion**: An intuitive email marketing tool designed to simplify your email marketing campaigns.
+- **Mail Motion**: An intuitive AI marketing tool designed to simplify your marketing campaigns.
 
 ## 🌱 What I'm Learning
 I'm currently exploring advanced DevOps practices and container orchestration with Kubernetes to further streamline my development workflow.
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hadi-razal&show_icons=true&theme=radical" alt="Hadi's GitHub Stats" />
-</p>
 
 ## 🔗 Let's Connect
 <p align="center">
