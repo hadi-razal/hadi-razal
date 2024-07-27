@@ -65,9 +65,6 @@ I'm a passionate Software Developer with a strong focus on creating impactful di
 ## 🔭 Current Projects
 - **Mail Motion**: An intuitive AI marketing tool designed to simplify your marketing campaigns.
 
-## 🌱 What I'm Learning
-I'm currently exploring advanced DevOps practices and container orchestration with Kubernetes to further streamline my development workflow.
-
 
 ## 🔗 Let's Connect
 <p align="center">
