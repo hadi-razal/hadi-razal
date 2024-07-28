@@ -1,6 +1,7 @@
 # Hi, I'm Hadi Razal! 👋
 
-I'm a passionate Software Developer with a strong focus on creating impactful digital experiences. My expertise spans a wide range of modern web technologies, and I love transforming ideas into polished, high-impact digital solutions.
+I'm a passionate Software Developer dedicated to crafting exceptional digital experiences. With deep expertise in modern web technologies, I transform visionary ideas into seamless, high-impact digital solutions that resonate with users.
+
 
 ## 🛠️ Technologies & Tools
 
