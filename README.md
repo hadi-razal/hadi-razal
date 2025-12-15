@@ -119,17 +119,6 @@ A next-generation e-commerce platform that combines community-driven features wi
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadirazal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadirazal&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadirazal&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## Current Focus
