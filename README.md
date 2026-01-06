@@ -16,7 +16,7 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="60%" valign="top">
       <h3>⚡ About Me</h3>
       <p>I am a <b>Software Engineer</b> and <b>AI Enthusiast</b> dedicated to building intelligent systems. I blend cutting-edge AI/ML with scalable full-stack architectures.</p>
       <ul>
@@ -25,15 +25,14 @@
         <li>🎯 <b>Mission:</b> Automating the mundane to elevate human potential.</li>
         <li>🏙️ <b>Location:</b> Dubai, UAE</li>
       </ul>
-      <div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=YOUR-REAL-USERNAME-HERE&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" width="100%" />
-      </div>
+      <br/>
+      <b>Languages & Tools:</b>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,postgres,aws,docker,tensorflow&perline=10" />
     </td>
-    <td width="45%" valign="top">
+    <td width="40%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR-REAL-USERNAME-HERE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
-        <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-REAL-USERNAME-HERE&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" />
+        <img src="https://metrics.lecoq.io/hadhirasal22?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FDubai" width="100%" />
       </div>
     </td>
   </tr>
@@ -41,18 +40,7 @@
 
 ---
 
-### 🛠️ Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,php,java,react,nextjs,vue,tailwind,mui&perline=10" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,django,fastapi,express,postgres,mongo,mysql,redis,firebase&perline=10" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,aws,gcp,docker,vercel,netlify,git,linux&perline=10" />
-</div>
-
----
-
-### 🚀 Featured Projects (Click to expand)
+### 🚀 Featured Projects
 
 <details>
   <summary><b>📧 Mail Motion - AI Marketing Automation</b></summary>
@@ -81,12 +69,13 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR-REAL-USERNAME-HERE&theme=tokyonight" />
+  <h3>📊 Coding Habits</h3>
+  <img src="https://metrics.lecoq.io/hadhirasal22?template=isometric&base.indepth=false&base.hireable=true&isocalendar=false&languages=true&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup,programming&languages.recent.categories=markup,programming&languages.recent.load=300&languages.recent.days=14" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=YOUR-REAL-USERNAME-HERE&color=00D9FF&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=hadhirasal22&color=00D9FF&style=flat-square&label=Profile+Views" />
   <br/>
   <sub><i>"The best way to predict the future is to invent it."</i></sub>
 </div>
