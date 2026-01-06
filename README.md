@@ -16,7 +16,7 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <h3>⚡ About Me</h3>
       <p>I am a <b>Software Engineer</b> and <b>AI Enthusiast</b> dedicated to building intelligent systems. I blend cutting-edge AI/ML with scalable full-stack architectures.</p>
       <ul>
@@ -25,14 +25,19 @@
         <li>🎯 <b>Mission:</b> Automating the mundane to elevate human potential.</li>
         <li>🏙️ <b>Location:</b> Dubai, UAE</li>
       </ul>
-      <br/>
-      <b>Languages & Tools:</b>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,postgres,aws,docker,tensorflow&perline=10" />
     </td>
-    <td width="40%" valign="top">
+    <td width="50%" valign="top">
+      <h3 align="center">🛠️ Tech Stack</h3>
       <div align="center">
-        <img src="https://metrics.lecoq.io/hadhirasal22?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia%2FDubai" width="100%" />
+        <img src="https://skillicons.dev/icons?i=js,ts,py,php,java&perline=5" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,mui&perline=5" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=nodejs,laravel,django,fastapi,express&perline=5" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=postgres,mongo,mysql,redis,firebase&perline=5" />
+        <br/>
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,aws,docker&perline=5" />
       </div>
     </td>
   </tr>
@@ -40,7 +45,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects (Click to expand)
 
 <details>
   <summary><b>📧 Mail Motion - AI Marketing Automation</b></summary>
@@ -69,13 +74,8 @@
 ---
 
 <div align="center">
-  <h3>📊 Coding Habits</h3>
-  <img src="https://metrics.lecoq.io/hadhirasal22?template=isometric&base.indepth=false&base.hireable=true&isocalendar=false&languages=true&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup,programming&languages.recent.categories=markup,programming&languages.recent.load=300&languages.recent.days=14" />
-</div>
-
-<div align="center">
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=hadhirasal22&color=00D9FF&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=hadirazal&color=00D9FF&style=flat-square&label=Profile+Views" />
   <br/>
   <sub><i>"The best way to predict the future is to invent it."</i></sub>
 </div>
