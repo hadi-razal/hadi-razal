@@ -16,16 +16,6 @@
 
 ---
 
-```python
-class HadiRazal:
-    role     = "AI Engineer & Full-Stack Developer"
-    location = "Dubai, UAE 🇦🇪"
-    building = ["FairPlatz Brain — Agentic AI", "Royal Vista Travels — AI Travel Agency"]
-    mission  = "Automating the mundane. Elevating the possible."
-```
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -71,6 +61,5 @@ class HadiRazal:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0D0D0D&height=100&section=footer"/>
   <img src="https://komarev.com/ghpvc/?username=hadirazal&color=00D9FF&style=flat-square&label=Profile+Views" />
 </div>
