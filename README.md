@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:00D9FF&height=200&section=header&text=Hadi%20Razal&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Automation%20Architect&descAlignY=58&descSize=16&descColor=00D9FF" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,50:0d1117,100:0a0a0a&height=220&section=header&text=Hadi%20Razal&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AI%20Engineer%20%E2%80%82%7C%E2%80%82%20Full-Stack%20Developer%20%E2%80%82%7C%E2%80%82%20Automation%20Architect&descAlignY=65&descSize=15&descColor=4a9eff" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Production+AI+Systems;LLM+%7C+RAG+%7C+Agentic+Workflows;Full-Stack+%2B+AI+%3D+Dangerous+Combo" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=800&color=4a9eff&center=true&vCenter=true&width=600&lines=Building+Production+AI+Systems;LLM+%7C+RAG+%7C+Agentic+Workflows;Full-Stack+%2B+AI+%3D+Dangerous+Combo" />
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/hadi-razal-690b22228/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/Hadi_Razal"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="mailto:hadhirasal22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hadi-razal-690b22228/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="https://twitter.com/Hadi_Razal"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:hadhirasal22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -20,7 +22,7 @@
 
 **Languages**
 <div>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,php&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,php,c,cpp&perline=10" />
 </div>
 
 **Frontend**
@@ -61,5 +63,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hadirazal&color=00D9FF&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=hadirazal&color=4a9eff&style=flat-square&label=Profile+Views" />
 </div>
