@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,50:0d1117,100:0a0a0a&height=180&section=header&text=Hadi%20Razal&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Applied%20AI%20%7C%20Automation%20%7C%20Business%20Systems&descAlignY=65&descSize=14&descColor=4a9eff" />
@@ -9,69 +8,66 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/hadi-rasal/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/hadi-rasal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="https://github.com/hadi-razal">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/hadi-razal"><img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/></a>
 &nbsp;
-<a href="mailto:hadhirasal22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+<a href="mailto:hadhirasal22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 &nbsp;
-<a href="https://www.hadirazal.in">
-  <img src="https://img.shields.io/badge/Portfolio-4A9EFF?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
+<a href="https://www.hadirazal.in"><img src="https://img.shields.io/badge/Portfolio-4A9EFF?style=flat-square&logo=vercel&logoColor=white"/></a>
 
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
 I am a **Full-Stack Developer and IT Operations Lead** focused on building practical software systems, business automations, CRM workflows, dashboards, and AI-powered applications.
 
-Currently, I am working with **Next.js, React, TypeScript, Node.js, Python, SQL, Zoho, automation tools, and Applied AI** while deeply improving my skills in **machine learning, DSA, system design, RAG, LLM applications, and production-ready AI systems**.
+Currently, I work with **Next.js, React, TypeScript, Node.js, Python, SQL, Zoho, automation tools, and Applied AI** while improving deeply in **machine learning, DSA, system design, RAG, LLM applications, and production-ready AI systems**.
 
 My goal is to build software that solves real business problems — from internal tools and CRM systems to AI assistants, automation platforms, and SaaS products.
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
-- Full-stack development with **Next.js, React, TypeScript, Node.js, and FastAPI**
-- AI/ML fundamentals: **EDA, statistics, regression, classification, feature engineering, model evaluation**
-- LLM apps: **RAG pipelines, embeddings, vector search, semantic search, prompt engineering**
-- Business systems: **CRM, Zoho, automation, dashboards, document workflows**
-- Interview preparation: **DSA, SQL, system design, backend architecture**
+- Full-stack development with **Next.js, React, TypeScript, Node.js, Express.js, and FastAPI**
+- AI/ML fundamentals: **EDA, statistics, regression, classification, feature engineering, and model evaluation**
+- LLM applications: **RAG pipelines, embeddings, vector search, semantic search, and prompt engineering**
+- Business systems: **CRM, Zoho, automation, dashboards, document workflows, and reporting**
+- Interview preparation: **DSA, SQL, backend architecture, and system design**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
+
 <div>
   <img src="https://skillicons.dev/icons?i=python,js,ts,java,php,c,cpp&perline=10" />
 </div>
 
 ### Frontend
+
 <div>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,mui,html,css,redux,figma&perline=10" />
 </div>
 
 ### Backend
+
 <div>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,laravel&perline=10" />
 </div>
 
-### Databases & Cloud
+### Databases, Cloud & DevOps
+
 <div>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,firebase,supabase,redis,docker,vercel,aws,azure,linux,git,github&perline=10" />
 </div>
 
 ### AI / ML / Data
+
 <div>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=10" />
 </div>
@@ -82,11 +78,13 @@ My goal is to build software that solves real business problems — from interna
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
   <img src="https://img.shields.io/badge/EDA-4A9EFF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Feature%20Engineering-111111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Model%20Evaluation-0D1117?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Statistics-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Feature%20Engineering-0D1117?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Model%20Evaluation-222222?style=flat-square"/>
 </div>
 
-### LLM / RAG / Agentic AI
+### LLM / RAG / Applied AI
+
 <div>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
@@ -99,6 +97,7 @@ My goal is to build software that solves real business problems — from interna
 </div>
 
 ### Automation, CRM & BI
+
 <div>
   <img src="https://img.shields.io/badge/Zoho%20CRM-E42527?style=flat-square&logo=zoho&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zoho%20Creator-E42527?style=flat-square&logo=zoho&logoColor=white"/>
@@ -113,9 +112,10 @@ My goal is to build software that solves real business problems — from interna
 
 ---
 
-## 🧩 Real-World Project Areas
+## Project Areas
 
 ### AI Document Assistant / RAG Platform
+
 Document assistant with PDF upload, chunking, embeddings, vector search, chat with citations, authentication, admin panel, and usage tracking.
 
 **Tech:** Next.js, FastAPI, Python, PostgreSQL/pgvector, ChromaDB, OpenAI/Gemini API, Docker
@@ -123,6 +123,7 @@ Document assistant with PDF upload, chunking, embeddings, vector search, chat wi
 ---
 
 ### Business ML Prediction App
+
 ML project for lead scoring, churn prediction, or sales prediction using EDA, statistical analysis, feature engineering, model training, evaluation, and deployment.
 
 **Tech:** Python, Pandas, SQL, scikit-learn, XGBoost, FastAPI/Streamlit
@@ -130,6 +131,7 @@ ML project for lead scoring, churn prediction, or sales prediction using EDA, st
 ---
 
 ### CRM & Marketing Automation Platform
+
 Internal business system for managing leads, exhibitors, events, automated follow-ups, email workflows, analytics, and CRM operations.
 
 **Tech:** Next.js, React, TypeScript, Zoho CRM, Zoho Creator, Deluge, Zoho Mail APIs, Power BI
@@ -137,6 +139,7 @@ Internal business system for managing leads, exhibitors, events, automated follo
 ---
 
 ### Digital Product SaaS Platform
+
 SaaS platform for store owners to manage, sell, and deliver digital products with authentication, product management, payment flow, order tracking, and analytics.
 
 **Tech:** Next.js, React, TypeScript, Firebase, Razorpay, Vercel
@@ -144,19 +147,20 @@ SaaS platform for store owners to manage, sell, and deliver digital products wit
 ---
 
 ### HR Automation & AI Help Desk
+
 AI-powered HR assistant and workflow automation system for answering employee questions, document generation, approvals, and internal support operations.
 
 **Tech:** OpenAI API, Power Automate, SharePoint, Microsoft 365, UiPath, N8N
 
 ---
 
-## 📚 Learning Roadmap
+## Learning Roadmap
 
 Currently improving deeply in:
 
 - Data Structures & Algorithms
 - SQL problem solving
-- Statistics and probability
+- Probability, statistics, and hypothesis testing
 - Machine learning fundamentals
 - Deep learning basics
 - NLP and LLM applications
@@ -167,7 +171,7 @@ Currently improving deeply in:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -187,4 +191,3 @@ Currently improving deeply in:
 **Building. Learning. Shipping. Improving every day.**
 
 </div>
-```
