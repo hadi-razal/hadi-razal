@@ -10,16 +10,5 @@
 
 <img width="100%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGVxZHZrMTFkcW9kaGI5dmF1YXNuNGloOHNkNGl6aW5qOWwxYzU1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/hadi-rasal/">
-  <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:hadhirasal22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-E11D48?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.hadirazal.in">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
 </div>
